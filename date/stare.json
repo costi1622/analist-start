@@ -1,0 +1,12 @@
+{
+ "generat": "2026-11-06T21:46:11.509Z",
+ "erori": [
+  "DATA_KEY invalidă: trebuie să aibă 32 de octeți (43 de caractere base64url)."
+ ],
+ "conexiuni": {
+  "seif": {
+   "stare": "lipsa",
+   "mesaj": "Adaugă secretul DATA_KEY: cheia de date generată în aplicație."
+  }
+ }
+}
